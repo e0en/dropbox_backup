@@ -1,0 +1,5 @@
+*.pyc
+*.log
+failed_files.txt
+used_files.txt
+settings.yml

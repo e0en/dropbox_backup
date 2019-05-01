@@ -1,0 +1,5 @@
+src_folder: /folder/you/want/to/upload
+dst_folder: /destination/folder/in/your/dropbox
+log_file: upload.log
+dropbox_token: XXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXX
+
